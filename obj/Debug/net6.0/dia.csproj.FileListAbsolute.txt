@@ -1,0 +1,15 @@
+C:\Users\Comp\source\repos\dia\dia\bin\Debug\net6.0\dia.exe
+C:\Users\Comp\source\repos\dia\dia\bin\Debug\net6.0\dia.deps.json
+C:\Users\Comp\source\repos\dia\dia\bin\Debug\net6.0\dia.runtimeconfig.json
+C:\Users\Comp\source\repos\dia\dia\bin\Debug\net6.0\dia.dll
+C:\Users\Comp\source\repos\dia\dia\bin\Debug\net6.0\dia.pdb
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.csproj.AssemblyReference.cache
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.AssemblyInfoInputs.cache
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.AssemblyInfo.cs
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.csproj.CoreCompileInputs.cache
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.dll
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\refint\dia.dll
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.pdb
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\dia.genruntimeconfig.cache
+C:\Users\Comp\source\repos\dia\dia\obj\Debug\net6.0\ref\dia.dll
